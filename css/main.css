@@ -23,7 +23,7 @@ body {
 #lyrics {
   font-size: 28px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-  color: white;
+  color: #f9fd25;
   position: absolute;
   margin-bottom: 20%;
   z-index: 1;
@@ -35,19 +35,20 @@ body {
   #lyrics {
       font-size: 14px; /* Reduce el tamaño del texto para dispositivos más pequeños */
       margin-bottom: 530px;
+      text-align: center;
       letter-spacing: 3px;
   }
 
 }
 #titulo {
-  margin-bottom: 180px;
+  margin-bottom: 600px;
   font-family: "Arial Narrow", Arial, sans-serif;
   color: yellow;
   position: absolute;
   font-weight: bold;
   letter-spacing: 10px;
   opacity: 0;
-  animation: fadeIn 3s ease-in-out forwards;
+  animation: fadeIn 5s ease-in-out forwards;
   text-align: center;
 }
 @keyframes fadeIn {

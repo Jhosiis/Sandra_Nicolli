@@ -10,7 +10,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: black;
+    background-color: #111;
     /* padding-top: -30; */
 }
 
@@ -31,6 +31,7 @@ body{
 @keyframes glow{
     0%, 100%{
         color: #fff;
+        font-weight: 600;
         text-shadow: 0 0 12px #fbff00, 0 0 50px #fbff00, 0 0 100px #fbff00;
     }
     10%, 90%{
@@ -115,6 +116,7 @@ body{
 
 .description{
     color: #fbff00;
+    font-weight: 600;
 }
 
 /* Estilo para el botón */

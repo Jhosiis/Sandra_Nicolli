@@ -16,7 +16,7 @@ var lyricsData = [
   { text: "está dicho que es un hecho", time: 59 },
   { text: "no la pierdas, no hay derecho", time: 61 },
   { text: "no te olvides que la vida casi nunca está dormida", time: 66 },
-  { text: "Perdón si se desincroniza la letra :v", time:72  },
+  { text: "Perdón si se desincroniza la letra XD", time:72  },
   { text: "en ese bar tan desierto nos esperaba el encuentro", time: 92 },
   { text: "ella llegó en limusina", time: 99 },
   { text: "amarrilla, por su puesto", time: 101 },
@@ -30,7 +30,7 @@ var lyricsData = [
   { text: "no la pierdas, no hay derecho", time: 138 },
   { text: "no te olides que la vida", time: 141 },
   { text: "casi nunca está dormida", time: 143 },
-  { text: "Listo sufiente cringe, GRACIAS POR TU TIEMPO :V", time: 148 },
+  { text: "Si llegaste hasta aqui, GRACIAS POR TU TIEMPO :V", time: 148 },
 
 ];
 
